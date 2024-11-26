@@ -1,1 +1,2 @@
 Add some text to the hello world file save it and stage it.
+testing git commit option in VS Code
